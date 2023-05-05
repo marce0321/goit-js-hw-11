@@ -10,7 +10,7 @@ const input = document.querySelector('input');
 btnSubmit.addEventListener('submit', onSubmit);
 
 const parameters = {
-  key: '22525601-17382d687a68b739241abc2fe',
+  key: '36068946-671fefa6acbf583eca485bb05',
   url: 'https://pixabay.com/api/',
   image_type: 'photo',
   orientation: 'horizontal',
